@@ -1,5 +1,5 @@
 
-# 💫 Hi, I'm Harshita Agarwal! 👋
+# Hi, I'm Harshita Agarwal! 👋
 🎓 Computer Science & Artificial Intelligence Student 💻 Software Engineering | AI/ML | LLMs | Research<br><br>I'm passionate about building software and intelligent systems that solve real-world problems. I enjoy working across software engineering, machine learning, and generative AI, while continuously strengthening my foundations in algorithms and computer science.
 
 ## 🌐 Socials:
