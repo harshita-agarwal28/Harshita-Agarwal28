@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-Hi, I'm Harshita Agarwal! 👋<br>🎓 Computer Science & Artificial Intelligence Student 💻 Software Engineering | AI/ML | LLMs | Research<br><br>I'm passionate about building software and intelligent systems that solve real-world problems. I enjoy working across software engineering, machine learning, and generative AI, while continuously strengthening my foundations in algorithms and computer science.
+# 💫 Hi, I'm Harshita Agarwal! 👋
+🎓 Computer Science & Artificial Intelligence Student 💻 Software Engineering | AI/ML | LLMs | Research<br><br>I'm passionate about building software and intelligent systems that solve real-world problems. I enjoy working across software engineering, machine learning, and generative AI, while continuously strengthening my foundations in algorithms and computer science.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshita-agarwal-igdtuw/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitaa2809@gmail.com)
